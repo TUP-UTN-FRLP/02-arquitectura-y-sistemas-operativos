@@ -36,4 +36,4 @@
 | Lunes | 30/11 | 20:00–22:00 | Aula 134 | Parcial | Clase |
 | Miércoles | 02/12 | 21:00–23:00 | Zoom | Revisión | Clase |
 | **Lunes** | **07/12** | — | — | **FERIADO PUENTE** | **SIN CLASES** |
-| Miércoles | 09/12 | 21:00–23:00 | Zoom | Recuperatorio | Clase |
+| Miércoles | 09/12 | 21:00–23:00 | Zoom | Recuperatorio por CVG | Clase |
