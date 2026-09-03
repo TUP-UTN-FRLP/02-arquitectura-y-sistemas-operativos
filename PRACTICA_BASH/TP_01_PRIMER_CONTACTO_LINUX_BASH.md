@@ -29,7 +29,7 @@ Podés trabajar de dos maneras:
 Si usás Windows, desde PowerShell:
 
 ```powershell
-wsl
+wsl2
 ```
 
 o:
