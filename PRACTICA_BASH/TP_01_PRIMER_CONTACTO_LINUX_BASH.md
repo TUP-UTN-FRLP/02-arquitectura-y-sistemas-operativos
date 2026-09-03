@@ -194,7 +194,7 @@ Respondé:
 
 1. ¿Qué arquitectura aparece?
 2. ¿Qué modelo de procesador se informa?
-3. ¿Cuántas CPU lógicas ve Linux?
+3. ¿Cuántas CPU lógicas vé Linux?
 4. ¿Cuántos núcleos aparecen?
 5. ¿Cuántos hilos por núcleo?
 
